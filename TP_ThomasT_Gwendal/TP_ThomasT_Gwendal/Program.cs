@@ -31,7 +31,7 @@ namespace TP_G_T
             Console.WriteLine("Voici ma phrase avec les mots inversés question 4 : ");
             Console.WriteLine(question4(phrase));
 
-            //question5();
+            question5();
 
             question6();
 
